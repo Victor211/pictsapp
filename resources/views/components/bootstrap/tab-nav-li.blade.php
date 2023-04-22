@@ -1,0 +1,1 @@
+<li class="nav-item"><a data-toggle="tab" href="{{ $href }}" class="{{$class ?? 'nav-link' }}" id="{{ $id }}"> {{ $title }}</a></li>

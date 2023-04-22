@@ -1,0 +1,12 @@
+{
+    "/assets/scripts/lib/definiciones.js": "/assets/scripts/lib/definiciones.js",
+    "/assets/scripts/def/paises.js": "/assets/scripts/def/paises.js",
+    "/assets/scripts/def/departamentos.js": "/assets/scripts/def/departamentos.js",
+    "/assets/scripts/def/ciudades.js": "/assets/scripts/def/ciudades.js",
+    "/assets/scripts/def/barrios.js": "/assets/scripts/def/barrios.js",
+    "/assets/scripts/def/tiposevaluaciones.js": "/assets/scripts/def/tiposevaluaciones.js",
+    "/assets/scripts/def/tipostest.js": "/assets/scripts/def/tipostest.js",
+    "/assets/scripts/pacientes/pacientes.js": "/assets/scripts/pacientes/pacientes.js",
+    "/assets/scripts/pacientes/metodos.js": "/assets/scripts/pacientes/metodos.js",
+    "/assets/scripts/ejercicios/ejercicios.js": "/assets/scripts/ejercicios/ejercicios.js"
+}
